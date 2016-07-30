@@ -1,0 +1,402 @@
+07-31 01:30:50.327 I/Radio-JNI(18124): register_android_hardware_Radio DONE
+07-31 01:30:50.345 D/AndroidRuntime(18124): Calling main entry com.android.commands.am.Am
+07-31 01:30:50.345 I/main    (18124): type=1400 audit(0.0:253): avc: denied { call } for scontext=u:r:zygote:s0 tcontext=u:r:system_server:s0 tclass=binder permissive=1
+07-31 01:30:50.345 I/main    (18124): type=1400 audit(0.0:254): avc: denied { transfer } for scontext=u:r:zygote:s0 tcontext=u:r:system_server:s0 tclass=binder permissive=1
+07-31 01:30:50.385 D/AndroidRuntime(18124): Shutting down VM
+07-31 01:30:50.412 E/MediaPlayer-JNI( 4898): JNIMediaPlayerFactory: bIsQCMediaPlayerPresent 0
+07-31 01:30:50.412 E/MediaPlayer-JNI( 4898): JNIMediaPlayerFactory: bIsQCMediaPlayerPresent 0
+07-31 01:30:50.515 I/ps      (18145): type=1400 audit(0.0:255): avc: denied { getattr } for path="/proc/348" dev="proc" ino=340849 scontext=u:r:init:s0 tcontext=u:r:logd:s0 tclass=dir permissive=1
+07-31 01:30:50.644 D/wpa_supplicant( 4806): wlan0: Control interface command 'SIGNAL_POLL'
+07-31 01:30:50.646 D/wpa_supplicant( 4806): CTRL-DEBUG: global_ctrl_sock-sendto: sock=11 sndbuf=212992 outq=0 send_len=49
+07-31 01:30:50.743 D/AndroidRuntime(18144): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+07-31 01:30:50.747 D/AndroidRuntime(18144): CheckJNI is OFF
+07-31 01:30:50.780 D/ICU     (18144): No timezone override file found: /data/misc/zoneinfo/current/icu/icu_tzdata.dat
+07-31 01:30:50.817 I/Radio-JNI(18144): register_android_hardware_Radio DONE
+07-31 01:30:50.834 D/AndroidRuntime(18144): Calling main entry com.android.commands.am.Am
+07-31 01:30:50.878 I/Binder_2( 3619): type=1400 audit(0.0:256): avc: denied { call } for scontext=u:r:system_server:s0 tcontext=u:r:zygote:s0 tclass=binder permissive=1
+07-31 01:30:50.886 D/AndroidRuntime(18144): Shutting down VM
+07-31 01:30:51.206 D/AndroidRuntime(18162): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+07-31 01:30:51.212 D/AndroidRuntime(18162): CheckJNI is OFF
+07-31 01:30:51.241 D/ICU     (18162): No timezone override file found: /data/misc/zoneinfo/current/icu/icu_tzdata.dat
+07-31 01:30:51.331 I/Radio-JNI(18162): register_android_hardware_Radio DONE
+07-31 01:30:51.362 D/AndroidRuntime(18162): Calling main entry com.android.commands.am.Am
+07-31 01:30:51.409 V/Prevent ( 1224): resume, current: [com.pluscubed.matlog]
+07-31 01:30:51.410 D/Prevent ( 1224): action: resume activity, package: com.pluscubed.matlog, count: 2
+07-31 01:30:51.443 D/AndroidRuntime(18162): Shutting down VM
+07-31 01:30:51.563 D/Prevent ( 1224): action: destroy activity, package: com.pluscubed.matlog, count: 1
+07-31 01:30:51.693 D/AndroidRuntime(18180): >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+07-31 01:30:51.696 D/AndroidRuntime(18180): CheckJNI is OFF
+07-31 01:30:51.724 D/ICU     (18180): No timezone override file found: /data/misc/zoneinfo/current/icu/icu_tzdata.dat
+07-31 01:30:51.756 I/Radio-JNI(18180): register_android_hardware_Radio DONE
+07-31 01:30:51.777 D/AndroidRuntime(18180): Calling main entry com.android.commands.am.Am
+07-31 01:30:51.778 I/main    (18180): type=1400 audit(0.0:257): avc: denied { call } for scontext=u:r:zygote:s0 tcontext=u:r:system_server:s0 tclass=binder permissive=1
+07-31 01:30:51.778 I/main    (18180): type=1400 audit(0.0:258): avc: denied { transfer } for scontext=u:r:zygote:s0 tcontext=u:r:system_server:s0 tclass=binder permissive=1
+07-31 01:30:51.812 D/AndroidRuntime(18180): Shutting down VM
+07-31 01:30:51.952 E/fpc_fingerprint_hal(  535): fpc_wait_finger_down_for_home  0	2
+07-31 01:30:51.952 D/fpc_tac (  535): fpc_tac_check_finger_lost begin
+07-31 01:30:51.952 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd begin
+07-31 01:30:51.962 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd end
+07-31 01:30:51.962 D/fpc_tac (  535): fpc_tac_check_finger_lost end
+07-31 01:30:51.962 E/fpc_fingerprint_hal(  535): do_home status 0  1
+07-31 01:30:51.963 E/fpc_fingerprint_hal(  535): do_home  HOME DOWN 
+07-31 01:30:51.963 D/fpc_fingerprint_hal(  535): fpc_wait_finger_up
+07-31 01:30:51.963 E/fpc_fingerprint_hal(  535): fpc_wait_finger_up
+07-31 01:30:51.963 D/fpc_tac (  535): fpc_tac_check_finger_lost begin
+07-31 01:30:51.963 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd begin
+07-31 01:30:51.973 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd end
+07-31 01:30:51.973 D/fpc_tac (  535): fpc_tac_check_finger_lost end
+07-31 01:30:51.993 D/fpc_tac (  535): fpc_tac_check_finger_lost begin
+07-31 01:30:51.994 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd begin
+07-31 01:30:52.005 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd end
+07-31 01:30:52.005 D/fpc_tac (  535): fpc_tac_check_finger_lost end
+07-31 01:30:52.025 D/fpc_tac (  535): fpc_tac_check_finger_lost begin
+07-31 01:30:52.025 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd begin
+07-31 01:30:52.037 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd end
+07-31 01:30:52.037 D/fpc_tac (  535): fpc_tac_check_finger_lost end
+07-31 01:30:52.058 D/fpc_tac (  535): fpc_tac_check_finger_lost begin
+07-31 01:30:52.058 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd begin
+07-31 01:30:52.070 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd end
+07-31 01:30:52.070 D/fpc_tac (  535): fpc_tac_check_finger_lost end
+07-31 01:30:52.090 D/fpc_tac (  535): fpc_tac_check_finger_lost begin
+07-31 01:30:52.090 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd begin
+07-31 01:30:52.102 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd end
+07-31 01:30:52.102 D/fpc_tac (  535): fpc_tac_check_finger_lost end
+07-31 01:30:52.122 D/fpc_tac (  535): fpc_tac_check_finger_lost begin
+07-31 01:30:52.123 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd begin
+07-31 01:30:52.135 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd end
+07-31 01:30:52.135 D/fpc_tac (  535): fpc_tac_check_finger_lost end
+07-31 01:30:52.155 D/fpc_tac (  535): fpc_tac_check_finger_lost begin
+07-31 01:30:52.155 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd begin
+07-31 01:30:52.168 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd end
+07-31 01:30:52.168 D/fpc_tac (  535): fpc_tac_check_finger_lost end
+07-31 01:30:52.188 D/fpc_tac (  535): fpc_tac_check_finger_lost begin
+07-31 01:30:52.188 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd begin
+07-31 01:30:52.200 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd end
+07-31 01:30:52.200 D/fpc_tac (  535): fpc_tac_check_finger_lost end
+07-31 01:30:52.220 D/fpc_tac (  535): fpc_tac_check_finger_lost begin
+07-31 01:30:52.221 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd begin
+07-31 01:30:52.233 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd end
+07-31 01:30:52.233 D/fpc_tac (  535): fpc_tac_check_finger_lost end
+07-31 01:30:52.253 D/fpc_tac (  535): fpc_tac_check_finger_lost begin
+07-31 01:30:52.253 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd begin
+07-31 01:30:52.265 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd end
+07-31 01:30:52.265 D/fpc_tac (  535): fpc_tac_check_finger_lost end
+07-31 01:30:52.286 D/fpc_tac (  535): fpc_tac_check_finger_lost begin
+07-31 01:30:52.286 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd begin
+07-31 01:30:52.298 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd end
+07-31 01:30:52.298 D/fpc_tac (  535): fpc_tac_check_finger_lost end
+07-31 01:30:52.318 D/fpc_tac (  535): fpc_tac_check_finger_lost begin
+07-31 01:30:52.319 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd begin
+07-31 01:30:52.331 D/fpc_tac (  535): fpc_tac_send_get_uint32_cmd end
+07-31 01:30:52.331 D/fpc_tac (  535): fpc_tac_check_finger_lost end
+07-31 01:30:52.331 E/fpc_fingerprint_hal(  535): fpc_wait_finger_up FPC_LIB_FINGER_LOST
+07-31 01:30:52.331 E/fpc_fingerprint_hal(  535): do_home status 0  2
+07-31 01:30:52.332 E/fpc_fingerprint_hal(  535): do_home  HOME UP 
+07-31 01:30:52.332 E/fpc_fingerprint_hal(  535): do_home 0
+07-31 01:30:52.332 E/fpc_fingerprint_hal(  535): fpc_wait_finger_down_for_home enter ---
+07-31 01:30:52.332 E/fpc_fingerprint_hal(  535): wait_wake_up  0	1
+07-31 01:30:52.333 D/fpc_tac (  535): fpc_tac_wakeup_setup begin
+07-31 01:30:52.333 D/fpc_tac (  535): fpc_tac_send_cmd begin
+07-31 01:30:52.339 D/fpc_tac (  535): fpc_tac_send_cmd end
+07-31 01:30:52.339 D/fpc_tac (  535): fpc_tac_wakeup_setup end
+07-31 01:30:52.349 I/ActivityManager( 1224): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.teslacoilsw.launcher/.NovaLauncher (has extras)} from uid 1000 on display 0
+07-31 01:30:52.376 D/Prevent ( 1224): action: user leaving activity , package: com.pluscubed.matlog, count: 1
+07-31 01:30:52.419 V/Prevent ( 1224): resume, current: [com.teslacoilsw.launcher]
+07-31 01:30:52.419 D/Prevent ( 1224): action: resume activity, package: com.teslacoilsw.launcher, count: 1
+07-31 01:30:52.490 I/art     ( 1224): Background partial concurrent mark sweep GC freed 68113(3MB) AllocSpace objects, 13(876KB) LOS objects, 33% free, 30MB/45MB, paused 2.208ms total 121.184ms
+07-31 01:30:53.496 I/MSM-irqbalance(  754): Decided to move IRQ224 from CPU3 to CPU0
+07-31 01:30:53.663 D/wpa_supplicant( 4806): wlan0: Control interface command 'SIGNAL_POLL'
+07-31 01:30:53.668 D/wpa_supplicant( 4806): CTRL-DEBUG: global_ctrl_sock-sendto: sock=11 sndbuf=212992 outq=0 send_len=49
+07-31 01:30:54.856 D/Prevent ( 1224): checking services, packages: [], whitelist: []
+07-31 01:30:54.858 V/Prevent ( 1224): services size: 30
+07-31 01:30:54.858 V/Prevent ( 1224): prevents: false, name: com.tencent.mm, count: 0, label: 0, uid: 10070, pid: 4898, process: com.tencent.mm, flags: 3
+07-31 01:30:54.858 V/Prevent ( 1224): prevents: false, name: com.tencent.mm, count: 1, label: 0, uid: 10070, pid: 6792, process: com.tencent.mm:push, flags: 3
+07-31 01:30:54.858 V/Prevent ( 1224): prevents: false, name: com.android.systemui, count: 0, label: 0, uid: 10017, pid: 6338, process: com.android.systemui, flags: 9
+07-31 01:30:54.859 V/Prevent ( 1224): prevents: false, name: com.netease.mobimail.oneplus, count: 0, label: 0, uid: 10060, pid: 6599, process: com.netease.mobimail.oneplus, flags: 1
+07-31 01:30:54.859 V/Prevent ( 1224): prevents: false, name: com.netease.cloudmusic, count: 0, label: 0, uid: 10062, pid: 8887, process: com.netease.cloudmusic, flags: 3
+07-31 01:30:54.859 V/Prevent ( 1224): prevents: false, name: com.coolapk.market, count: 0, label: 0, uid: 10059, pid: 7935, process: com.coolapk.market, flags: 1
+07-31 01:30:54.859 V/Prevent ( 1224): prevents: false, name: com.pluscubed.matlog, count: 0, label: 0, uid: 10100, pid: 17967, process: com.pluscubed.matlog, flags: 3
+07-31 01:30:54.859 V/Prevent ( 1224): prevents: false, name: com.netease.cloudmusic, count: 0, label: 0, uid: 10062, pid: 8887, process: com.netease.cloudmusic, flags: 1
+07-31 01:30:54.859 V/Prevent ( 1224): complete checking running service
+07-31 01:30:54.937 I/ActivityManager( 1224): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.eg.android.AlipayGphone/.AlipayLogin (has extras)} from uid 10095 on display 0
+07-31 01:30:54.945 D/Prevent ( 1224): action: user leaving activity , package: com.teslacoilsw.launcher, count: 1
+07-31 01:30:55.036 D/Prevent ( 1224): allow start activity com.eg.android.AlipayGphone/.AlipayLogin
+07-31 01:30:55.037 D/Prevent ( 1224): allow start activity com.eg.android.AlipayGphone/.AlipayLogin
+07-31 01:30:55.056 I/ActivityManager( 1224): Start proc 18198:com.eg.android.AlipayGphone/u0a66 for activity com.eg.android.AlipayGphone/.AlipayLogin
+07-31 01:30:55.213 V/Prevent ( 1224): launch, current: [com.eg.android.AlipayGphone]
+07-31 01:30:55.214 W/Process ( 1224): Unable to open /proc/17022/status
+07-31 01:30:55.214 V/Prevent ( 1224): pid 17022 is not for com.eg.android.AlipayGphone
+07-31 01:30:55.215 D/Prevent ( 1224): action: start activity, package: com.eg.android.AlipayGphone, count: 1
+07-31 01:30:55.707 I/jni     (18198): libcrashsdk.so loaded
+07-31 01:30:55.728 I/Logging (18198): LoggerFactoryBinder.nativeInit invoked
+07-31 01:30:55.957 D/HOOK    (18198): AssetManager isUpToDate:true
+07-31 01:30:55.959 D/HOOK    (18198): AssetManager isUpToDate:true
+07-31 01:30:56.020 D/WifiService( 1224): New client listening to asynchronous messages
+07-31 01:30:56.308 D/OpenGLRenderer(18198): Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+07-31 01:30:56.368 I/Adreno  (18198): QUALCOMM build                   : 183c040, Iff84fb1103
+07-31 01:30:56.368 I/Adreno  (18198): Build Date                       : 03/18/16
+07-31 01:30:56.368 I/Adreno  (18198): OpenGL ES Shader Compiler Version: XE031.06.00.02
+07-31 01:30:56.368 I/Adreno  (18198): Local Branch                     : 
+07-31 01:30:56.368 I/Adreno  (18198): Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.BF64.1.2.2_RB4.06.00.01.180.031
+07-31 01:30:56.368 I/Adreno  (18198): Remote Branch                    : NONE
+07-31 01:30:56.368 I/Adreno  (18198): Reconstruct Branch               : NOTHING
+07-31 01:30:56.413 I/OpenGLRenderer(18198): Initialized EGL, version 1.4
+07-31 01:30:56.487 W/System  (18198): ClassLoader referenced unknown path: /system/framework/tcmclient.jar
+07-31 01:30:56.514 I/ActivityManager( 1224): Displayed com.eg.android.AlipayGphone/.AlipayLogin: +1s478ms
+07-31 01:30:56.677 D/wpa_supplicant( 4806): wlan0: Control interface command 'SIGNAL_POLL'
+07-31 01:30:56.679 D/wpa_supplicant( 4806): CTRL-DEBUG: global_ctrl_sock-sendto: sock=11 sndbuf=212992 outq=0 send_len=49
+07-31 01:30:57.044 W/ResourceType(18198): ResTable_typeSpec entry count inconsistent: given 17, previously 18
+07-31 01:30:57.045 W/ResourceType(18198): ResTable_typeSpec entry count inconsistent: given 1, previously 26
+07-31 01:30:57.045 W/ResourceType(18198): ResTable_typeSpec entry count inconsistent: given 4, previously 137
+07-31 01:30:57.110 E/ResourceType(18198): Failed resolving bag parent id 0x250b0056
+07-31 01:30:57.114 W/ResourceType(18198): Attempt to retrieve bag 0x250b0049 which is invalid or in a cycle.
+07-31 01:30:57.114 W/ResourceType(18198): Attempt to retrieve bag 0x250b0049 which is invalid or in a cycle.
+07-31 01:30:57.131 W/ResourceType(18198): Attempt to retrieve bag 0x250b0049 which is invalid or in a cycle.
+07-31 01:30:57.131 W/ResourceType(18198): Attempt to retrieve bag 0x250b0049 which is invalid or in a cycle.
+07-31 01:30:57.168 W/ResourceType(18198): Attempt to retrieve bag 0x250b0049 which is invalid or in a cycle.
+07-31 01:30:57.169 W/ResourceType(18198): Attempt to retrieve bag 0x250b0049 which is invalid or in a cycle.
+07-31 01:30:57.170 W/ResourceType(18198): Attempt to retrieve bag 0x250b0049 which is invalid or in a cycle.
+07-31 01:30:57.188 W/ResourceType(18198): Attempt to retrieve bag 0x250b0049 which is invalid or in a cycle.
+07-31 01:30:57.189 W/ResourceType(18198): Attempt to retrieve bag 0x250b0049 which is invalid or in a cycle.
+07-31 01:30:57.199 W/ResourceType(18198): Attempt to retrieve bag 0x250b0049 which is invalid or in a cycle.
+07-31 01:30:57.199 W/ResourceType(18198): Attempt to retrieve bag 0x250b0049 which is invalid or in a cycle.
+07-31 01:30:57.199 W/ResourceType(18198): Attempt to retrieve bag 0x250b0049 which is invalid or in a cycle.
+07-31 01:30:57.206 W/ResourceType(18198): Attempt to retrieve bag 0x250b0049 which is invalid or in a cycle.
+07-31 01:30:57.206 W/ResourceType(18198): Attempt to retrieve bag 0x250b0049 which is invalid or in a cycle.
+07-31 01:30:57.304 W/ResourceType(18198): ResTable_typeSpec entry count inconsistent: given 17, previously 18
+07-31 01:30:57.304 W/ResourceType(18198): ResTable_typeSpec entry count inconsistent: given 1, previously 26
+07-31 01:30:57.304 W/ResourceType(18198): ResTable_typeSpec entry count inconsistent: given 4, previously 137
+07-31 01:30:57.417 D/HOOK    (18198): AssetManager isUpToDate:true
+07-31 01:30:57.484 I/art     (18198): Background sticky concurrent mark sweep GC freed 206993(20MB) AllocSpace objects, 151(4MB) LOS objects, 47% free, 29MB/55MB, paused 5.056ms total 124.115ms
+07-31 01:30:57.675 D/BluetoothManagerService( 1224): Message: 20
+07-31 01:30:57.677 D/BluetoothManagerService( 1224): Added callback: android.bluetooth.IBluetoothManagerCallback$Stub$Proxy@3ab7218:true
+07-31 01:30:57.748 W/Settings(18198): Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+07-31 01:30:57.822 I/WebViewFactory(18198): Loading com.google.android.webview version 52.0.2743.91 (code 275609150)
+07-31 01:30:57.909 I/art     (18198): Rejecting re-init on previously-failed class java.lang.Class<com.android.webview.chromium.ServiceWorkerControllerAdapter>
+07-31 01:30:57.910 I/art     (18198): Rejecting re-init on previously-failed class java.lang.Class<com.android.webview.chromium.ServiceWorkerControllerAdapter>
+07-31 01:30:57.913 I/art     (18198): Rejecting re-init on previously-failed class java.lang.Class<com.android.webview.chromium.TokenBindingManagerAdapter>
+07-31 01:30:57.914 I/art     (18198): Rejecting re-init on previously-failed class java.lang.Class<com.android.webview.chromium.TokenBindingManagerAdapter>
+07-31 01:30:57.948 I/cr_LibraryLoader(18198): Time to load native libraries: 14 ms (timestamps 4263-4277)
+07-31 01:30:57.948 I/cr_LibraryLoader(18198): Expected native library version number "52.0.2743.91", actual native library version number "52.0.2743.91"
+07-31 01:30:58.496 I/MSM-irqbalance(  754): Decided to move IRQ270 from CPU3 to CPU0
+07-31 01:30:59.254 E/MediaPlayer-JNI( 4898): JNIMediaPlayerFactory: bIsQCMediaPlayerPresent 0
+07-31 01:30:59.254 E/MediaPlayer-JNI( 4898): JNIMediaPlayerFactory: bIsQCMediaPlayerPresent 0
+07-31 01:30:59.689 D/wpa_supplicant( 4806): wlan0: Control interface command 'SIGNAL_POLL'
+07-31 01:30:59.693 D/wpa_supplicant( 4806): CTRL-DEBUG: global_ctrl_sock-sendto: sock=11 sndbuf=212992 outq=0 send_len=49
+07-31 01:30:59.696 D/ConnectivityService( 1224): updateNetworkScore for NetworkAgentInfo [WIFI () - 101] to 60
+07-31 01:31:01.829 V/ActivityManager( 1224): Attempted to start a foreground service (ComponentInfo{com.eg.android.AlipayGphone/com.alipay.pushsdk.push.NotificationService}) with a broken notification (no icon: Notification(pri=0 contentView=null vibrate=null sound=null defaults=0x0 flags=0x40 color=0x00000000 vis=PRIVATE))
+07-31 01:31:02.705 D/wpa_supplicant( 4806): wlan0: Control interface command 'SIGNAL_POLL'
+07-31 01:31:02.710 D/wpa_supplicant( 4806): CTRL-DEBUG: global_ctrl_sock-sendto: sock=11 sndbuf=212992 outq=0 send_len=49
+07-31 01:31:03.496 I/MSM-irqbalance(  754): Decided to move IRQ57 from CPU3 to CPU0
+07-31 01:31:05.716 D/wpa_supplicant( 4806): wlan0: Control interface command 'SIGNAL_POLL'
+07-31 01:31:05.718 D/wpa_supplicant( 4806): CTRL-DEBUG: global_ctrl_sock-sendto: sock=11 sndbuf=212992 outq=0 send_len=49
+07-31 01:31:06.036 E/MediaPlayer-JNI( 4898): JNIMediaPlayerFactory: bIsQCMediaPlayerPresent 0
+07-31 01:31:06.036 E/MediaPlayer-JNI( 4898): JNIMediaPlayerFactory: bIsQCMediaPlayerPresent 0
+07-31 01:31:06.768 I/ActivityManager( 1224): Process com.svox.pico (pid 15231) has died
+07-31 01:31:06.768 D/Prevent ( 1224): action: app died, package: com.svox.pico--com.svox.pico, count: 0
+07-31 01:31:06.813 I/ActivityManager( 1224): Process cn.wps.moffice_tpt:gcmpush (pid 14099) has died
+07-31 01:31:06.813 D/Prevent ( 1224): action: app died when user leaving, package: cn.wps.moffice_tpt, count: -1
+07-31 01:31:06.831 I/ActivityManager( 1224): Process com.android.gallery3d (pid 15210) has died
+07-31 01:31:06.832 D/Prevent ( 1224): action: app died, package: com.android.gallery3d--com.android.gallery3d, count: 0
+07-31 01:31:08.498 I/MSM-irqbalance(  754): Decided to move IRQ222 from CPU3 to CPU0
+07-31 01:31:08.729 D/wpa_supplicant( 4806): wlan0: Control interface command 'SIGNAL_POLL'
+07-31 01:31:08.735 D/wpa_supplicant( 4806): CTRL-DEBUG: global_ctrl_sock-sendto: sock=11 sndbuf=212992 outq=0 send_len=49
+07-31 01:31:11.747 D/wpa_supplicant( 4806): wlan0: Control interface command 'SIGNAL_POLL'
+07-31 01:31:11.751 D/wpa_supplicant( 4806): CTRL-DEBUG: global_ctrl_sock-sendto: sock=11 sndbuf=212992 outq=0 send_len=49
+07-31 01:31:14.758 D/wpa_supplicant( 4806): wlan0: Control interface command 'SIGNAL_POLL'
+07-31 01:31:14.763 D/wpa_supplicant( 4806): CTRL-DEBUG: global_ctrl_sock-sendto: sock=11 sndbuf=212992 outq=0 send_len=49
+07-31 01:31:16.494 E/MediaPlayer-JNI( 4898): JNIMediaPlayerFactory: bIsQCMediaPlayerPresent 0
+07-31 01:31:16.494 E/MediaPlayer-JNI( 4898): JNIMediaPlayerFactory: bIsQCMediaPlayerPresent 0
+07-31 01:31:17.773 D/wpa_supplicant( 4806): wlan0: Control interface command 'SIGNAL_POLL'
+07-31 01:31:17.777 D/wpa_supplicant( 4806): CTRL-DEBUG: global_ctrl_sock-sendto: sock=11 sndbuf=212992 outq=0 send_len=49
+07-31 01:31:20.764 W/ActivityManager( 1224): Timeout executing service: ServiceRecord{5526c30 u0 com.eg.android.AlipayGphone/com.amap.api.location.APSService}
+07-31 01:31:20.786 D/wpa_supplicant( 4806): wlan0: Control interface command 'SIGNAL_POLL'
+07-31 01:31:20.789 D/wpa_supplicant( 4806): CTRL-DEBUG: global_ctrl_sock-sendto: sock=11 sndbuf=212992 outq=0 send_len=49
+07-31 01:31:20.791 D/ConnectivityService( 1224): notifyType CAP_CHANGED for NetworkAgentInfo [WIFI () - 101]
+07-31 01:31:20.845 I/Process ( 1224): Sending signal. PID: 18198 SIG: 3
+07-31 01:31:20.845 I/art     (18198): Thread[2,tid=18203,WaitingInMainSignalCatcherLoop,Thread*=0xef7cb000,peer=0x12c3b0a0,"Signal Catcher"]: reacting to signal 3
+07-31 01:31:20.850 D/bugrpt  ( 8887): begin dealWithANR...
+07-31 01:31:21.046 I/Process ( 1224): Sending signal. PID: 1224 SIG: 3
+07-31 01:31:21.055 I/art     ( 1224): Thread[2,tid=1229,WaitingInMainSignalCatcherLoop,Thread*=0x7f82438a00,peer=0x12c010a0,"Signal Catcher"]: reacting to signal 3
+07-31 01:31:21.457 I/art     (18198): Wrote stack traces to '/data/anr/traces.txt'
+07-31 01:31:21.457 D/bugrpt  ( 8887): begin dealWithANR...
+07-31 01:31:22.841 E/WifiHAL ( 1224): Error polling socket
+07-31 01:31:23.463 I/Process ( 1224): Sending signal. PID: 5117 SIG: 3
+07-31 01:31:23.464 I/Process ( 1224): Sending signal. PID: 5089 SIG: 3
+07-31 01:31:23.464 I/art     ( 5117): Thread[2,tid=5129,WaitingInMainSignalCatcherLoop,Thread*=0x7f80242000,peer=0x12c450a0,"Signal Catcher"]: reacting to signal 3
+07-31 01:31:23.465 I/art     ( 5089): Thread[2,tid=5099,WaitingInMainSignalCatcherLoop,Thread*=0x7f80242000,peer=0x12c450a0,"Signal Catcher"]: reacting to signal 3
+07-31 01:31:23.470 W/ActivityManager( 1224): Missing app error report, app = com.eg.android.AlipayGphone crashing = false notResponding = true
+07-31 01:31:23.484 I/art     ( 1224): Wrote stack traces to '/data/anr/traces.txt'
+07-31 01:31:23.485 I/Process ( 1224): Sending signal. PID: 5066 SIG: 3
+07-31 01:31:23.486 I/art     ( 5066): Thread[2,tid=5088,WaitingInMainSignalCatcherLoop,Thread*=0x7f80242000,peer=0x12c450a0,"Signal Catcher"]: reacting to signal 3
+07-31 01:31:23.543 I/art     ( 5066): Wrote stack traces to '/data/anr/traces.txt'
+07-31 01:31:23.543 I/Process ( 1224): Sending signal. PID: 5057 SIG: 3
+07-31 01:31:23.543 I/art     ( 5057): Thread[2,tid=5071,WaitingInMainSignalCatcherLoop,Thread*=0x7f80242000,peer=0x12c3f0a0,"Signal Catcher"]: reacting to signal 3
+07-31 01:31:23.573 I/art     ( 5089): Wrote stack traces to '/data/anr/traces.txt'
+07-31 01:31:23.573 I/Process ( 1224): Sending signal. PID: 6338 SIG: 3
+07-31 01:31:23.574 I/art     ( 6338): Thread[2,tid=6343,WaitingInMainSignalCatcherLoop,Thread*=0x7f80263000,peer=0x12c650a0,"Signal Catcher"]: reacting to signal 3
+07-31 01:31:23.712 I/art     ( 5057): Wrote stack traces to '/data/anr/traces.txt'
+07-31 01:31:23.797 D/wpa_supplicant( 4806): wlan0: Control interface command 'SIGNAL_POLL'
+07-31 01:31:23.799 D/wpa_supplicant( 4806): CTRL-DEBUG: global_ctrl_sock-sendto: sock=11 sndbuf=212992 outq=0 send_len=49
+07-31 01:31:23.972 W/ActivityManager( 1224): Missing app error report, app = com.eg.android.AlipayGphone crashing = false notResponding = true
+07-31 01:31:23.973 I/art     ( 6338): Wrote stack traces to '/data/anr/traces.txt'
+07-31 01:31:24.187 I/art     ( 5117): Wrote stack traces to '/data/anr/traces.txt'
+07-31 01:31:24.474 W/ActivityManager( 1224): Missing app error report, app = com.eg.android.AlipayGphone crashing = false notResponding = true
+07-31 01:31:24.978 W/ActivityManager( 1224): Missing app error report, app = com.eg.android.AlipayGphone crashing = false notResponding = true
+07-31 01:31:25.481 W/ActivityManager( 1224): Missing app error report, app = com.eg.android.AlipayGphone crashing = false notResponding = true
+07-31 01:31:25.541 D/AudioFlinger(  504): mixer(0xf2040000) throttle end: throttle time(99)
+07-31 01:31:25.985 W/ActivityManager( 1224): Missing app error report, app = com.eg.android.AlipayGphone crashing = false notResponding = true
+07-31 01:31:26.240 I/Process (18198): Sending signal. PID: 18198 SIG: 9
+07-31 01:31:26.339 D/GraphicsStats( 1224): Buffer count: 15
+07-31 01:31:26.339 I/WindowState( 1224): WIN DEATH: Window{bc4c0ca u0 com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}
+07-31 01:31:26.340 D/WifiService( 1224): Client connection lost with reason: 4
+07-31 01:31:26.351 I/ActivityManager( 1224): Process com.eg.android.AlipayGphone (pid 18198) has died
+07-31 01:31:26.353 W/Process ( 1224): Unable to open /proc/18198/status
+07-31 01:31:26.354 V/Prevent ( 1224): pid 18198 is not for com.eg.android.AlipayGphone
+07-31 01:31:26.354 D/Prevent ( 1224): action: app died, package: com.eg.android.AlipayGphone--com.eg.android.AlipayGphone, count: 0
+07-31 01:31:26.354 D/Prevent ( 1224): action: containsKey , package: 18198, count: -1
+07-31 01:31:26.362 W/ActivityManager( 1224): Force removing ActivityRecord{b334e36 u0 com.eg.android.AlipayGphone/.AlipayLogin t504}: app died, no saved state
+07-31 01:31:26.380 V/Prevent ( 1224): resume, current: [com.teslacoilsw.launcher]
+07-31 01:31:26.381 D/Prevent ( 1224): action: resume activity, package: com.teslacoilsw.launcher, count: 1
+07-31 01:31:26.403 I/Adreno  ( 5138): QUALCOMM build                   : 183c040, Iff84fb1103
+07-31 01:31:26.403 I/Adreno  ( 5138): Build Date                       : 03/18/16
+07-31 01:31:26.403 I/Adreno  ( 5138): OpenGL ES Shader Compiler Version: XE031.06.00.02
+07-31 01:31:26.403 I/Adreno  ( 5138): Local Branch                     : 
+07-31 01:31:26.403 I/Adreno  ( 5138): Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.BF64.1.2.2_RB4.06.00.01.180.031
+07-31 01:31:26.403 I/Adreno  ( 5138): Remote Branch                    : NONE
+07-31 01:31:26.403 I/Adreno  ( 5138): Reconstruct Branch               : NOTHING
+07-31 01:31:26.464 W/InputMethodManagerService( 1224): Got RemoteException sending setActive(false) notification to pid 18198 uid 10066
+07-31 01:31:26.519 I/OpenGLRenderer( 5138): Initialized EGL, version 1.4
+07-31 01:31:26.810 D/wpa_supplicant( 4806): wlan0: Control interface command 'SIGNAL_POLL'
+07-31 01:31:26.815 D/wpa_supplicant( 4806): CTRL-DEBUG: global_ctrl_sock-sendto: sock=11 sndbuf=212992 outq=0 send_len=48
+07-31 01:31:27.628 I/ActivityManager( 3659): type=1400 audit(0.0:259): avc: denied { read } for name="task" dev="proc" ino=351046 scontext=u:r:system_server:s0 tcontext=u:r:logd:s0 tclass=dir permissive=1
+07-31 01:31:28.502 I/Process ( 1224): Sending signal. PID: 6599 SIG: 3
+07-31 01:31:28.505 I/art     ( 6599): Thread[2,tid=6604,WaitingInMainSignalCatcherLoop,Thread*=0xef7cb000,peer=0x12c070a0,"Signal Catcher"]: reacting to signal 3
+07-31 01:31:28.704 I/Process ( 1224): Sending signal. PID: 8887 SIG: 3
+07-31 01:31:28.704 I/art     ( 8887): Thread[2,tid=8892,WaitingInMainSignalCatcherLoop,Thread*=0xef7cb000,peer=0x12c2e0a0,"Signal Catcher"]: reacting to signal 3
+07-31 01:31:28.930 E/ActivityManager( 1224): ANR in com.eg.android.AlipayGphone
+07-31 01:31:28.930 E/ActivityManager( 1224): PID: 18198
+07-31 01:31:28.930 E/ActivityManager( 1224): Reason: executing service com.eg.android.AlipayGphone/com.amap.api.location.APSService
+07-31 01:31:28.930 E/ActivityManager( 1224): Load: 5.63 / 6.05 / 6.07
+07-31 01:31:28.930 E/ActivityManager( 1224): CPU usage from 0ms to 8129ms later:
+07-31 01:31:28.930 E/ActivityManager( 1224):   35% 1224/system_server: 10% user + 25% kernel / faults: 8716 minor 155 major
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.2% 499/debuggerd: 0% user + 0.2% kernel / faults: 9817 minor 70 major
+07-31 01:31:28.930 E/ActivityManager( 1224):   11% 504/mediaserver: 8.9% user + 2.9% kernel / faults: 135 minor
+07-31 01:31:28.930 E/ActivityManager( 1224):   8% 5117/com.android.phone: 2.9% user + 5% kernel / faults: 4896 minor 12 major
+07-31 01:31:28.930 E/ActivityManager( 1224):   5.3% 6599/com.netease.mobimail.oneplus: 1.1% user + 4.1% kernel / faults: 1549 minor 8 major
+07-31 01:31:28.930 E/ActivityManager( 1224):   4.8% 6338/com.android.systemui: 2.7% user + 2% kernel / faults: 3096 minor 4 major
+07-31 01:31:28.930 E/ActivityManager( 1224):   4.8% 8887/com.netease.cloudmusic: 2.4% user + 2.3% kernel / faults: 1823 minor 9 major
+07-31 01:31:28.930 E/ActivityManager( 1224):   0% 501/debuggerd64: 0% user + 0% kernel / faults: 3860 minor 10 major
+07-31 01:31:28.930 E/ActivityManager( 1224):   2.3% 278/mmcqd/0: 0% user + 2.3% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   1.9% 5057/com.quicinc.cne.CNEService: 0.9% user + 0.9% kernel / faults: 2626 minor 5 major
+07-31 01:31:28.930 E/ActivityManager( 1224):   1.8% 9355/kworker/u16:5: 0% user + 1.8% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   1.7% 256/cfinteractive: 0% user + 1.7% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   1.3% 8/rcu_preempt: 0% user + 1.3% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0% 5089/com.slimroms.doze.oneplus: 0% user + 0% kernel / faults: 1793 minor 18 major
+07-31 01:31:28.930 E/ActivityManager( 1224):   1.1% 5138/com.teslacoilsw.launcher: 0.6% user + 0.4% kernel / faults: 1969 minor 154 major
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.9% 17967/com.pluscubed.matlog: 0.8% user + 0.1% kernel / faults: 86 minor
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.3% 143/kswapd0: 0% user + 0.3% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.8% 491/surfaceflinger: 0.6% user + 0.2% kernel / faults: 21 minor 1 major
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.7% 308/msm-core:sampli: 0% user + 0.7% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.6% 4440/android.process.media: 0.4% user + 0.1% kernel / faults: 241 minor
+07-31 01:31:28.930 E/ActivityManager( 1224):   0% 5066/org.cyanogenmod.audiofx: 0% user + 0% kernel / faults: 1777 minor 24 major
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.6% 11893/kworker/0:1: 0% user + 0.6% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.4% 4566/VosMCThread: 0% user + 0.4% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.4% 6792/com.tencent.mm:push: 0.2% user + 0.2% kernel / faults: 793 minor
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.3% 3/ksoftirqd/0: 0% user + 0.3% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.3% 348/logd: 0.1% user + 0.2% kernel / faults: 6 minor
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.3% 560/hcube/4: 0% user + 0.3% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.3% 4898/com.tencent.mm: 0.2% user + 0.1% kernel / faults: 26 minor 1 major
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.3% 8698/com.mandongkeji.comiclover: 0.1% user + 0.2% kernel / faults: 615 minor 15 major
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.2% 11/migration/1: 0% user + 0.2% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.2% 12/ksoftirqd/1: 0% user + 0.2% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.2% 16/ksoftirqd/2: 0% user + 0.2% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0% 27/migration/5: 0% user + 0% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0% 63/system: 0% user + 0% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.2% 18007/daemonsu:10100: 0.1% user + 0.1% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0% 18053/su: 0% user + 0% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.1% 7/migration/0: 0% user + 0.1% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.1% 15/migration/2: 0% user + 0.1% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.1% 19/migration/3: 0% user + 0.1% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.1% 20/ksoftirqd/3: 0% user + 0.1% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.1% 23/migration/4: 0% user + 0.1% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0% 28/ksoftirqd/5: 0% user + 0% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0% 274/kworker/2:3: 0% user + 0% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.1% 509/thermal-engine: 0% user + 0.1% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0% 575/migration/7: 0% user + 0% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.1% 754/msm_irqbalance: 0% user + 0.1% kernel / faults: 1 minor
+07-31 01:31:28.930 E/ActivityManager( 1224):   0% 929/xposed_service_app: 0% user + 0% kernel / faults: 1 minor
+07-31 01:31:28.930 E/ActivityManager( 1224):   0% 4922/com.google.android.inputmethod.pinyin: 0% user + 0% kernel / faults: 22 minor
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.1% 6690/de.robv.android.xposed.installer: 0% user + 0.1% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0% 6987/com.android.settings: 0% user + 0% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.1% 17133/com.eg.android.AlipayGphone:push: 0% user + 0.1% kernel / faults: 448 minor 2 major
+07-31 01:31:28.930 E/ActivityManager( 1224):   0% 18069/logcat: 0% user + 0% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0% 18174/daemonsu:10100:18170: 0% user + 0% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   0.1% 18181/logcat: 0.1% user + 0% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):  +0% 18371/kworker/0:0: 0% user + 0% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224): 41% TOTAL: 22% user + 14% kernel + 3.1% iowait + 0.7% irq + 0.3% softirq
+07-31 01:31:28.930 E/ActivityManager( 1224): CPU usage from 7085ms to 7625ms later:
+07-31 01:31:28.930 E/ActivityManager( 1224):   21% 504/mediaserver: 14% user + 7% kernel / faults: 18 minor
+07-31 01:31:28.930 E/ActivityManager( 1224):     5.2% 3450/AudioOut_6: 0% user + 5.2% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):     5.2% 17800/gle.mp3.decoder: 3.5% user + 1.7% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):     3.5% 17798/NPDecoder: 1.7% user + 1.7% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):     3.5% 17799/NPDecoder-CL: 1.7% user + 1.7% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):     1.7% 17801/OMXCallbackDisp: 1.7% user + 0% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):   13% 1224/system_server: 0% user + 13% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):     13% 3659/ActivityManager: 0% user + 13% kernel
+07-31 01:31:28.930 E/ActivityManager( 1224):     1.7% 5345/B
+07-31 01:31:28.935 I/ActivityManager( 1224): Killing 0:com.eg.android.AlipayGphone/u0a66 (adj 0): bg anr
+07-31 01:31:28.935 W/libprocessgroup( 1224): failed to open /acct/uid_10066/pid_0/cgroup.procs: No such file or directory
+07-31 01:31:29.317 E/MediaPlayer-JNI( 4898): JNIMediaPlayerFactory: bIsQCMediaPlayerPresent 0
+07-31 01:31:29.318 E/MediaPlayer-JNI( 4898): JNIMediaPlayerFactory: bIsQCMediaPlayerPresent 0
+07-31 01:31:29.394 I/art     ( 8887): Wrote stack traces to '/data/anr/traces.txt'
+07-31 01:31:29.413 D/PhoneStatusBar( 6338): disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock search quick_settings >
+07-31 01:31:29.826 D/wpa_supplicant( 4806): wlan0: Control interface command 'SIGNAL_POLL'
+07-31 01:31:29.829 D/wpa_supplicant( 4806): CTRL-DEBUG: global_ctrl_sock-sendto: sock=11 sndbuf=212992 outq=0 send_len=48
+07-31 01:31:31.113 I/art     ( 6599): Wrote stack traces to '/data/anr/traces.txt'
+07-31 01:31:32.355 D/Prevent ( 1224): checking services, packages: [com.eg.android.AlipayGphone], whitelist: []
+07-31 01:31:32.357 V/Prevent ( 1224): services size: 30
+07-31 01:31:32.358 V/Prevent ( 1224): prevents: false, name: com.tencent.mm, count: 0, label: 0, uid: 10070, pid: 4898, process: com.tencent.mm, flags: 3
+07-31 01:31:32.358 V/Prevent ( 1224): prevents: false, name: com.tencent.mm, count: 1, label: 0, uid: 10070, pid: 6792, process: com.tencent.mm:push, flags: 3
+07-31 01:31:32.358 V/Prevent ( 1224): prevents: false, name: com.android.systemui, count: 0, label: 0, uid: 10017, pid: 6338, process: com.android.systemui, flags: 9
+07-31 01:31:32.358 V/Prevent ( 1224): prevents: false, name: com.netease.mobimail.oneplus, count: 0, label: 0, uid: 10060, pid: 6599, process: com.netease.mobimail.oneplus, flags: 1
+07-31 01:31:32.359 V/Prevent ( 1224): prevents: false, name: com.netease.cloudmusic, count: 0, label: 0, uid: 10062, pid: 8887, process: com.netease.cloudmusic, flags: 3
+07-31 01:31:32.360 V/Prevent ( 1224): prevents: false, name: com.coolapk.market, count: 0, label: 0, uid: 10059, pid: 7935, process: com.coolapk.market, flags: 1
+07-31 01:31:32.361 V/Prevent ( 1224): prevents: false, name: com.pluscubed.matlog, count: 0, label: 0, uid: 10100, pid: 17967, process: com.pluscubed.matlog, flags: 3
+07-31 01:31:32.363 V/Prevent ( 1224): prevents: false, name: com.netease.cloudmusic, count: 0, label: 0, uid: 10062, pid: 8887, process: com.netease.cloudmusic, flags: 1
+07-31 01:31:32.364 V/Prevent ( 1224): complete checking running service
+07-31 01:31:32.384 D/PhoneStatusBar( 6338): disable: < expand icons* alerts system_info* back home recent clock search quick_settings >
+07-31 01:31:32.843 D/wpa_supplicant( 4806): wlan0: Control interface command 'SIGNAL_POLL'
+07-31 01:31:32.848 D/wpa_supplicant( 4806): CTRL-DEBUG: global_ctrl_sock-sendto: sock=11 sndbuf=212992 outq=0 send_len=49
+07-31 01:31:34.409 D/bugrpt  ( 8887): begin dealWithANR...
+07-31 01:31:34.503 D/bugrpt  ( 8887): too frequent
+07-31 01:31:34.504 D/bugrpt  ( 8887): begin dealWithANR...
+07-31 01:31:34.550 D/bugrpt  ( 8887): too frequent
+07-31 01:31:34.550 D/bugrpt  ( 8887): begin dealWithANR...
+07-31 01:31:34.593 D/bugrpt  ( 8887): too frequent
+07-31 01:31:34.594 D/bugrpt  ( 8887): begin dealWithANR...
+07-31 01:31:34.635 D/bugrpt  ( 8887): too frequent
+07-31 01:31:34.635 D/bugrpt  ( 8887): begin dealWithANR...
+07-31 01:31:34.671 D/bugrpt  ( 8887): too frequent
+07-31 01:31:34.671 D/bugrpt  ( 8887): begin dealWithANR...
+07-31 01:31:34.724 D/bugrpt  ( 8887): too frequent
+07-31 01:31:34.725 D/bugrpt  ( 8887): begin dealWithANR...
+07-31 01:31:34.768 D/bugrpt  ( 8887): too frequent
+07-31 01:31:34.768 D/bugrpt  ( 8887): begin dealWithANR...
+07-31 01:31:34.803 I/art     ( 8887): Background sticky concurrent mark sweep GC freed 307566(29MB) AllocSpace objects, 14(280KB) LOS objects, 13% free, 162MB/187MB, paused 2.700ms total 113.287ms
+07-31 01:31:34.804 D/bugrpt  ( 8887): too frequent
+07-31 01:31:34.804 D/bugrpt  ( 8887): begin dealWithANR...
+07-31 01:31:34.829 D/bugrpt  ( 8887): too frequent
+07-31 01:31:35.860 D/wpa_supplicant( 4806): wlan0: Control interface command 'SIGNAL_POLL'
+07-31 01:31:35.866 D/wpa_supplicant( 4806): CTRL-DEBUG: global_ctrl_sock-sendto: sock=11 sndbuf=212992 outq=0 send_len=49
+07-31 01:31:38.877 D/wpa_supplicant( 4806): wlan0: Control interface command 'SIGNAL_POLL'
+07-31 01:31:38.880 D/wpa_supplicant( 4806): CTRL-DEBUG: global_ctrl_sock-sendto: sock=11 sndbuf=212992 outq=0 send_len=49
+07-31 01:31:38.882 D/ConnectivityService( 1224): notifyType CAP_CHANGED for NetworkAgentInfo [WIFI () - 101]
+07-31 01:31:38.894 D/ConnectivityService( 1224): updateNetworkScore for NetworkAgentInfo [WIFI () - 101] to 56
+07-31 01:31:39.709 I/ActivityManager( 1224): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.pluscubed.matlog/com.pluscubed.logcat.ui.LogcatActivity (has extras)} from uid 10095 on display 0
+07-31 01:31:39.734 D/Prevent ( 1224): action: user leaving activity , package: com.teslacoilsw.launcher, count: 1
+07-31 01:31:39.897 V/Prevent ( 1224): resume, current: [com.pluscubed.matlog]
+07-31 01:31:39.900 D/Prevent ( 1224): action: resume activity, package: com.pluscubed.matlog, count: 1
+07-31 01:31:41.894 D/wpa_supplicant( 4806): wlan0: Control interface command 'SIGNAL_POLL'
+07-31 01:31:41.900 D/wpa_supplicant( 4806): CTRL-DEBUG: global_ctrl_sock-sendto: sock=11 sndbuf=212992 outq=0 send_len=48
+07-31 01:31:42.698 I/ps      (18400): type=1400 audit(0.0:260): avc: denied { getattr } for path="/proc/348" dev="proc" ino=346885 scontext=u:r:init:s0 tcontext=u:r:logd:s0 tclass=dir permissive=1
